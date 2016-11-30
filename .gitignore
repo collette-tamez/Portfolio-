@@ -1,2 +1,6 @@
-.sass-cache/
-*.css.map
+node_modules
+bower_components
+gulpfile.js
+less/*
+vendor/font-awesome/scss/
+vendor/font-awesome/less/
