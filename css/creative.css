@@ -47,14 +47,13 @@ p {
 }
 .bg-dark {
   background-color: #222222;
-  color: gray;
+  color: white;
 }
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
 section {
   padding: 100px 0;
-  background-color: gray;
 }
 aside {
   padding: 50px 0;
@@ -63,7 +62,7 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: gray;
+  background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
@@ -127,7 +126,7 @@ aside {
     color: white;
   }
   .navbar-default.affix {
-    background-color: gray;
+    background-color: white;
     border-color: rgba(34, 34, 34, 0.05);
   }
   .navbar-default.affix .navbar-header .navbar-brand {
@@ -414,4 +413,7 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #222222;
+}
+#rogue{
+  overflow: hidden;
 }
