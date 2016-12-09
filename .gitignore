@@ -4,3 +4,4 @@ gulpfile.js
 less/*
 vendor/font-awesome/scss/
 vendor/font-awesome/less/
+vendor/magnific-popup
