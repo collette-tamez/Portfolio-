@@ -45,8 +45,4 @@
         distance: '0px'
     }, 300);
 
-    $("#cats").click(function () {
-       $("#gallery").carousel();
-    });
-
 })(jQuery); // End of use strict
