@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/qqZ_xxpG.jpg');
   text-align: center;
   color: white;
 }
@@ -413,4 +413,11 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #222222;
+}
+.header-content{
+  background: rgba(2, 20, 24, 0.5);
+  /*color: #e8fafd*/
+}
+#mainNav{
+  background: rgba(2, 20, 24, 0.5);
 }
