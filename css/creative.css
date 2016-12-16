@@ -164,6 +164,7 @@ header .header-content {
   text-align: center;
   padding: 100px 15px 100px;
   width: 100%;
+  background: rgba(2, 20, 24, 0.5);
 }
 header .header-content .header-content-inner h1 {
   font-weight: 700;
@@ -414,10 +415,3 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
-.header-content{
-  background: rgba(2, 20, 24, 0.5);
-  /*color: #e8fafd*/
-}
-/*#mainNav{*/
-  /*background: rgba(2, 20, 24, 0.5);*/
-/*}*/
